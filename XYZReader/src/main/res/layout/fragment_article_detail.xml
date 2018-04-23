@@ -113,6 +113,7 @@
                 android:background="?attr/selectableItemBackground"
                 android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
                 android:paddingBottom="@dimen/detail_body_bottom_margin"
+                android:paddingTop="28dp"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textColorLink="@color/theme_accent"
