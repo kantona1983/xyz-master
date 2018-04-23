@@ -4,6 +4,6 @@
     android:fromYDelta="-100%"
     android:toYDelta="0%"
     android:interpolator="@android:anim/decelerate_interpolator"
-    android:startOffset="300"
+    android:startOffset="100"
 
     />
