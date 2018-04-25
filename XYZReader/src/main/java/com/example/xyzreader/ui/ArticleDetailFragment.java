@@ -133,6 +133,7 @@ public class ArticleDetailFragment extends Fragment implements
         collapsingToolbarLayout.setTitleEnabled(false);
 
 
+
         return mRootView;
     }
 
